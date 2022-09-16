@@ -1,2 +1,2 @@
 # Random_Password_Generator_2
- random password generator with two options
+ password generator that spells out two options consisting randomly generated alphabets, numericals and special characters
