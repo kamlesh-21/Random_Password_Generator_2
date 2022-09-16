@@ -1,2 +1,2 @@
 # Random_Password_Generator_2
- password generator
+ random password generator with two options
